@@ -1,4 +1,4 @@
-# Cas WebCaisse – Réponses complètes
+# Cas WebCaisse – Réponses 
 
 ### BTS SIO Option SLAM – 2ème année
 
